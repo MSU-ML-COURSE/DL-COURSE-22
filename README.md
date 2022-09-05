@@ -5,4 +5,4 @@
 
 ### Правила оценивания
 
-[Презентация с оцениванием](https://github.com/MSU-ML-COURSE/ML-COURSE-21-22/blob/main/files/%D0%9E%D1%86%D0%B5%D0%BD%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81.pdf)
+[Презентация с оцениванием](https://github.com/MSU-ML-COURSE/DL-COURSE-22/blob/main/DL%20Структура%20курса%20final.pdf)
