@@ -6,3 +6,11 @@
 ### Правила оценивания
 
 [Презентация с оцениванием](https://github.com/MSU-ML-COURSE/DL-COURSE-22/blob/main/DL%20Структура%20курса%20final.pdf)
+
+
+### Материалы
+
+* [3 поток] https://github.com/Dyakonov/MSUDL
+
+### Дополнительные материалы
+[Работа с jupyter notebook и python](https://youtube.com/playlist?list=PLzdAwQrglFyIkkvIlUeo_xX08WvKM6L0-)
