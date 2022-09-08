@@ -10,6 +10,7 @@
 
 ### Материалы
 
+* [1 поток] https://github.com/victorkitov/DL
 * [3 поток] https://github.com/Dyakonov/MSUDL
 
 ### Дополнительные материалы
