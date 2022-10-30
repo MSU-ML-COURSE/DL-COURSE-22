@@ -11,6 +11,7 @@
 ### Материалы
 
 * [1 поток] https://github.com/victorkitov/DL
+* [2 поток] https://github.com/MSU-ML-COURSE/DL-COURSE-22/tree/main/Lectures%202
 * [3 поток] https://github.com/Dyakonov/MSUDL
 
 ### Дополнительные материалы
